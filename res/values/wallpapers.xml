@@ -22,6 +22,14 @@
 	    <item>rootzboat_gradient</item>
 	    <item>rootzboat_light_cycle</item>
 	    <item>rootzboat_out_of_the_box</item>
+        <item>rootzboat_jsin1</item>
+        <item>rootzboat_jsin2</item>
+        <item>rootzboat_jsin3</item>
+        <item>rootzboat_jsin4</item>
+        <item>rootzboat_jsin5</item>
+        <item>rootzboat_jsin6</item>
+        <item>rootzboat_jsin7</item>
+        <item>rootzboat_jsin8</item>
 	    <item>sully</item>
     </string-array>
 
@@ -31,6 +39,14 @@
 	<item>RootzBoat Gradient</item>
 	<item>RootzBoat Light Cycle</item>
 	<item>RootzBoat Out of the Box</item>
+    <item>RootzBoat1 by JsinLegacy</item>
+    <item>RootzBoat2 by JsinLegacy</item>
+    <item>RootzBoat3 by JsinLegacy</item>
+    <item>RootzBoat4 by JsinLegacy</item>
+    <item>RootzBoat5 by JsinLegacy</item>
+    <item>RootzBoat6 by JsinLegacy</item>
+    <item>RootzBoat7 by JsinLegacy</item>
+    <item>RootzBoat8 by JsinLegacy</item>
     <item>Sully</item>
     </string-array>
 </resources>
