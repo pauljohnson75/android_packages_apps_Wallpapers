@@ -20,9 +20,11 @@
         <item>rootzboat_captain</item>
         <item>rootzboat_chroma</item>
 	    <item>rootzboat_gradient</item>
+        <item>rootzboat_gradient_black</item>
 	    <item>rootzboat_light_cycle</item>
 	    <item>rootzboat_out_of_the_box</item>
         <item>rootzboat_jsin1</item>
+        <item>rootzboat_jsin1_black</item>
         <item>rootzboat_jsin2</item>
         <item>rootzboat_jsin3</item>
         <item>rootzboat_jsin4</item>
@@ -37,9 +39,11 @@
 	<item>RootzBoat Captain</item>
 	<item>RootzBoat Chroma</item>
 	<item>RootzBoat Gradient</item>
+    <item>RootzBoat Gradient Black</item>
 	<item>RootzBoat Light Cycle</item>
 	<item>RootzBoat Out of the Box</item>
     <item>RootzBoat1 by JsinLegacy</item>
+    <item>RootzBoat1-Black by JsinLegacy</item>
     <item>RootzBoat2 by JsinLegacy</item>
     <item>RootzBoat3 by JsinLegacy</item>
     <item>RootzBoat4 by JsinLegacy</item>
@@ -49,4 +53,5 @@
     <item>RootzBoat8 by JsinLegacy</item>
     <item>Sully</item>
     </string-array>
+
 </resources>
