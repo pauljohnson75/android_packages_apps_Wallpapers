@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.rootz.wallpapers;
+package com.gelee.wallpapers;
 
 import android.app.Activity;
 import android.content.res.Resources;
